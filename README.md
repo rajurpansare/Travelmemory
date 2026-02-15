@@ -3,8 +3,9 @@
 `.env` file to work with the backend after creating a database in mongodb: 
 
 ```
-MONGO_URI='ENTER_YOUR_URL'
-PORT=3001
+MONGO_URI='mongodb+srv://rajurpansare_db_user:<b2kk5ni5cMUEfICu>@hvcluster0.hu55roi.mongodb.net/?appName=hvCluster0'
+PORT=3000MONGO_URI='mongodb+srv://rajurpansare_db_user:<b2kk5ni5cMUEfICu>@hvcluster0.hu55roi.mongodb.net/?appName=hvCluster0'
+PORT=3000
 ```
 
 Data format to be added: 
